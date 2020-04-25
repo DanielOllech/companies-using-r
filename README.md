@@ -84,7 +84,13 @@ Feel free to contribute.
 + [Behind the Scenes: Foodborne Chicago](http://www.smartchicagocollaborative.org/behind-the-scenes-foodborne-chicago/)
 
 <HR>
+  
+## Deutsche Bundesbank
 
++ [Creating graphics in corporate design using R](https://www.bundesbank.de/resource/blob/831408/2be86fe56a79521b34aeef8e69ff7530/mL/2020-03-bbkplot-data.pdf)
+
+<HR>
+  
 ## Dyson
 
 + [Forecasting the expected sales of new models of vacuum cleaners, hand dryers, and other products](https://earlconf.com/_downloads/london_speakers/EARL2018_-_London_-_Dan_Erben.pdf)
